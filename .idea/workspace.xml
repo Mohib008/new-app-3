@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e8ede448-4142-4944-9f39-a9c655250807" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/.rscinfo" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/.rscinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/app/page_client-reference-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app/page_client-reference-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/server-reference-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/server-reference-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/server-reference-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/server-reference-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +71,7 @@
       <updated>1738869875568</updated>
       <workItem from="1738869877438" duration="4278000" />
       <workItem from="1739012395488" duration="535000" />
-      <workItem from="1739042090514" duration="2007000" />
+      <workItem from="1739042090514" duration="4263000" />
     </task>
     <servers />
   </component>
