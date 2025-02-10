@@ -1,7 +1,8 @@
 import Image from "next/image";
-import Steps from "./Components/steps";
-import Navbar from "./Components/Navbar.js";
-import { NavigationMenuDemo } from "./Components/NavigationMenuDemo";
+import Steps from "../Components/Steps.js";
+import Navbar from "../Components/Navbar.js";
+//import { NavigationMenuDemo } from "./Components/NavigationMenuDemo";
+
 
 export default function Home() {
   return (
@@ -15,4 +16,4 @@ export default function Home() {
     </div>
   );
   
-}
+};
